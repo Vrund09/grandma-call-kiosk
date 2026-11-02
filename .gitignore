@@ -1,0 +1,13 @@
+.gradle/
+build/
+app/build/
+local.properties
+.DS_Store
+.idea/
+*.iml
+
+# Your family's data and signing key stay on your computer, never in git.
+config.json
+photos/*
+!photos/example/
+keystore/

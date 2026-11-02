@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    { "name": "Mom",    "number": "+910000000001", "photo": "photos/example/person1.png" },
+    { "name": "Dad",    "number": "+910000000002", "photo": "photos/example/person2.png" },
+    { "name": "Sister", "number": "+910000000003", "photo": "photos/example/person3.png" },
+    { "name": "Me",     "number": "+910000000004", "photo": "photos/example/person4.png" }
+  ],
+  "speakerphone": true,
+  "blockStatusBar": true,
+  "dryRun": true,
+  "alertNumber": "",
+  "powerCutAlertSeconds": 120,
+  "hideApps": [
+    "com.facebook.katana",
+    "com.facebook.appmanager",
+    "com.facebook.system",
+    "com.android.chrome",
+    "com.android.vending",
+    "com.google.android.youtube",
+    "com.google.android.apps.maps",
+    "com.google.android.apps.photos",
+    "com.google.android.gm",
+    "com.google.android.googlequicksearchbox",
+    "com.google.android.music",
+    "com.google.android.videos",
+    "com.sec.android.app.sbrowser",
+    "com.sec.android.app.samsungapps",
+    "com.sec.android.app.camera",
+    "com.sec.android.gallery3d",
+    "com.sec.android.diagmonagent"
+  ]
+}
